@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.idea/
+pi/playground/.idea/
 .Python
 env/
 build/
